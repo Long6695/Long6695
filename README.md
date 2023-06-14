@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=long6695" alt="long6695" /></a> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NestJs PHP SQL**
 
-- 💬 Ask me about **React, React Native, NextJs, Redux and Typescript**
+- 💬 Ask me about **React, React Native, NextJs, Redux, Express and Typescript**
 
 - 📫 How to reach me **thaihothanhlong95@gmail.com**
 
